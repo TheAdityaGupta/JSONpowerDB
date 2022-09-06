@@ -7,7 +7,6 @@ So, This site faces the issue of sending and retrieving data. This issue will be
 Although the illustrations are provided on the complete process.
 But still if anyone wants to check this beautifully constructed page, Welcome !*
 
-__Hosted Site link__  :  https://login2xplore-project.herokuapp.com/index.html    
 
 ## *Introduction*
     -This is a simple and elegant HTML,CSS,Js/jQuery Login/SignUp Page,
@@ -26,7 +25,7 @@ __Hosted Site link__  :  https://login2xplore-project.herokuapp.com/index.html
     "dbName": "Company",
     "rel": "Employee",
     "jsonStr":{
-        "empName": "Oshin Pojta"
+        "empName": "Aditys"
         }
     }
     
@@ -38,10 +37,10 @@ __Hosted Site link__  :  https://login2xplore-project.herokuapp.com/index.html
       "dbName" : "Emloyee",
       "rel" : "Emp-rel",
       "jsonStr" : {
-        "name" : "Oshin Pojta",
-        "email" : "Sujanian785@gmail.com",
-        "mobile" : 7018516XXX,
-        "address" : "Solan"
+        "name" : "Aditya",
+        "email" : "Aditya213@gmail.com",
+        "mobile" : 121200XXXX,
+        "address" : "hostel"
             }
     }
     
@@ -57,37 +56,6 @@ __Hosted Site link__  :  https://login2xplore-project.herokuapp.com/index.html
     -Schema free - easy to develop and maintain.
     -Web-services API - Can be used with any programming language that has support for HTTP.
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Sources
 
 *CodePen.io , Youtube.com, SweetAlert.js.org, BootStrap and jQuery for Frontend.*
