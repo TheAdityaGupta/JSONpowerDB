@@ -57,34 +57,34 @@ __Hosted Site link__  :  https://login2xplore-project.herokuapp.com/index.html
     -Schema free - easy to develop and maintain.
     -Web-services API - Can be used with any programming language that has support for HTTP.
     
-## *Illustrations*
-
-![image](https://github.com/oshinpojta/Login2Xplore---JsonDB-Project/blob/main/Screenshots/1.Sign-Up.png "SignUp")
-*-- Tapped to SignUp Page*
 
 
-![image](https://github.com/oshinpojta/Login2Xplore---JsonDB-Project/blob/main/Screenshots/2.Sign-Up.png)
-*-- Values Entered*
 
 
-![image](https://github.com/oshinpojta/Login2Xplore---JsonDB-Project/blob/main/Screenshots/3.Sign-Up.png)
-*-- Registered to DB*
 
 
-![image](https://github.com/oshinpojta/Login2Xplore---JsonDB-Project/blob/main/Screenshots/4.Sign-In.png)
-*-- Tapped to Login Page*
 
 
-![image](https://github.com/oshinpojta/Login2Xplore---JsonDB-Project/blob/main/Screenshots/5.Sign-In.png)
-*-- Entered Credentials*
 
 
-![image](https://github.com/oshinpojta/Login2Xplore---JsonDB-Project/blob/main/Screenshots/6.Sign-In.png)
-*-- Server Response with user-data stored in*
 
 
-![image](https://github.com/oshinpojta/Login2Xplore---JsonDB-Project/blob/main/Screenshots/7.Inserted.png)
-*-- Inside the database-Admin-panel*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Release History
