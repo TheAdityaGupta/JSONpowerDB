@@ -87,12 +87,6 @@ __Hosted Site link__  :  https://login2xplore-project.herokuapp.com/index.html
 
 
 
-## Release History
-*Originally developed by Oshin Pojta, the then under-graduate from Lovely Professional University,
-                          for the demonstration of JsonPoweredDB on Feb-14,2021. 
-    -This project is a testimony of the course provided by Login2Xplore Company, 
-     that demonstrates the usage and functionality of Json-Powered Database. 
-    -The date of submission of this project was by Feb-15,2021.* 
 
 ## Sources
 
